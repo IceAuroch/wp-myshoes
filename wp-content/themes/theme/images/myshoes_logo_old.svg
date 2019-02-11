@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="301px" height="72px" viewBox="0 0 301 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <text id="text-1" font-family="Superclarendon-Bold, Superclarendon" font-size="53" font-weight="bold" letter-spacing="-1.39634621" fill="#C6007E">
+            <tspan x="-2" y="42">MYSHOES</tspan>
+        </text>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="MYSHOES" fill-opacity="1" fill="#C6007E">
+                <use filter="url(#filter-2)" xlink:href="#text-1"></use>
+                <use xlink:href="#text-1"></use>
+            </g>
+            <text id="Space-for-your-choic" font-family="AppleSDGothicNeo-ExtraBold, Apple SD Gothic Neo" font-size="27" font-weight="600" line-spacing="25" letter-spacing="2.1099999" fill="#06038D">
+                <tspan x="0" y="69">Space for your choic</tspan>
+                <tspan x="285.307998" y="69">e</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
